@@ -51,4 +51,4 @@ Processing is open source programming language software which is used for electr
 ![image](https://user-images.githubusercontent.com/40560478/171049517-147af061-0139-4b4c-8ad1-cc8b1d6cff56.png)
 
 ## code
-* https://github.com/AltwilMohammed/Automatic-Street-light-using-8051-microcontroller/blob/main/code
+* https://github.com/AltwilMohammed/Mini-cnc-printer/blob/main/cnc%20code.ino
